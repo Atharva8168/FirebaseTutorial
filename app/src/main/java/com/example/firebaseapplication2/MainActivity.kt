@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
             FirebaseApplication2Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Vijay",
                         modifier = Modifier.padding(innerPadding)
 
 
